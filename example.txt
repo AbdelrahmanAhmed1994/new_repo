@@ -1,1 +1,3 @@
 Hello Git
+Neue Zeile im Dev branch
+Zweite Zeile im Development Branch hinzugefügt
