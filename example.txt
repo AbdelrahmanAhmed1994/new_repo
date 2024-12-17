@@ -1,3 +1,6 @@
-Hello Git
+<<<<<<< HEAD
+Inhalt aus Branch A
+=======
+Inhalt aus Branch B
+>>>>>>> deployment
 
-Welcome to my repo!
