@@ -1,1 +1,2 @@
-Feature 1 für Minor Version 1.1.0
+erste änderung Feature 1 für Minor Version 1.1.0
+
